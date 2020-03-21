@@ -1,0 +1,5 @@
+git init 'design frontend'
+git config --global user.name 'olaleresamueloyeyemi'
+git config --global user.email 'yoolalere@gmail.com'
+git config --global color.ui auto
+git branch branch-olalere
